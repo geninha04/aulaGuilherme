@@ -36,7 +36,23 @@ input{
     margin-right: 5px;
 }
 
-    input:focus{
-        outline: solid 1px white;
-    }
+input:focus{
+    outline: solid 1px white;
+}
 
+button{
+    text-transform: uppercase;
+    padding: 10px;
+    border-radius: 5px;
+    border:solid 1px white;
+    margin-right: 5px;
+    margin-top: 5px;
+    background: transparent;
+    color:white;
+    cursor: pointer;
+}
+
+button:hover{
+    background: #1da175;
+    color:#fff
+}
