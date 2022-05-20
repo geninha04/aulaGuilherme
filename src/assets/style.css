@@ -1,6 +1,10 @@
 
+@import url('https://fonts.googleapis.com/css2?family=Roboto&family=Sofia&display=swap');
+
+
+
 #app{
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: Sofia, Helvetica, sans-serif;
     text-align: center;
     color: #2c3e50
 }
@@ -41,6 +45,7 @@ input:focus{
 }
 
 button{
+    font-family: Sofia, Helvetica, sans-serif;
     text-transform: uppercase;
     padding: 10px;
     border-radius: 5px;
